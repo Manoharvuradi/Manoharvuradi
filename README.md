@@ -61,8 +61,6 @@ I enjoy working close to the backend — designing APIs, optimizing data flows, 
 - Deployed frontend on **Vercel**
 - Owned the project end-to-end: development, deployment, and iteration
 
----
-
 ### 🏦 SIM Plan Recommender — FNB
 - Built backend services using **Java + Spring Boot**
 - Processed large daily datasets to generate plan recommendations
